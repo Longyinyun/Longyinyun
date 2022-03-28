@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Longyinyun
-- 👀 I’m interested in data science, machine learning, java back-end, data structure and algorithms.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in data science, machine learning and artificial intelligence.
+- 🌱 I’m currently learning semantic segmentation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1914674278@qq.com
 
