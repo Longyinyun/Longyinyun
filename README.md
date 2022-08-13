@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Longyinyun
+- 👋 Hi, I’m @LongYinyun
 - 👀 I’m interested in data science, machine learning and artificial intelligence.
-- 🌱 I’m currently learning semantic segmentation.
+- 🌱 I’m currently learning front end development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1914674278@qq.com
 
